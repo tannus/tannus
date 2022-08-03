@@ -3,7 +3,7 @@
 My name is Tiago Tannus and I live in São Paulo, Brazil. I recently attained my master's degree in Computer Science and now I am exhilarated to start programming hard again and contributing to as many open source projects as I can!
 
 I really love programming and 
-- 🔭 I’m currently looking for Open Source projects to contribute! 
+- :eyes: I’m currently looking for Open Source projects to contribute! :eyes:
 
 I have a really strong background in C/C++ and Python, so I want to keep improving on those languages. Also:
 - :construction: I want to strengthen my coding skills with Go and Java.
