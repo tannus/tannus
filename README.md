@@ -4,6 +4,10 @@ My name is Tiago Tannus and I live in São Paulo, Brazil. I recently attained my
 
 I really love programming and 
 - :eyes: I’m currently looking for Open Source projects to contribute! :eyes:
+    - :sparkler: I want to help with implementing new features :sparkler:,
+    - :beetle: Fixing any bugs :beetle:,
+    - :bookmark_tabs: Documentation issues :bookmark_tabs:,
+    - :question: And anything else that I can help with :question:!
 
 I have a really strong background in C/C++ and Python, so I want to keep improving on those languages. Also:
 - :construction: I want to strengthen my coding skills with Go and Java.
